@@ -1,10 +1,20 @@
-# Tanks
+![Tanks](banners/Tanks.png)
 
-# Labyrinth Of Chaos
+<br>
 
-# Rockbasher
+![Labyrinth Of Chaos](banners/LabyrinthOfChaos.png)
 
-# VR prototype
+<br>
+
+![Rockbasher](banners/Rockbasher.png)
+
+
+<br>
+
+![VR Prototype](banners/VR_Prototype.png)
+A little VR demo developped for the HTC Vive when it first came out. The was done to see what the technologie could do as well as see if the schools computers could run the VR headset. This was the project that really got me interested in game dev and got me started me on this journey.
+
+<br>
 
 ![ShipIT!](banners/ShipIT.png)
 Ship IT! is the game that my team and I made during our Game Projects cours at DAE. In this couch coop game you play as 4 robots trying to keep their cargo from falling off a ship while fending off the incoming enemy robots.

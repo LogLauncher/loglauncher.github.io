@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Tanks
 
-You can use the [editor on GitHub](https://github.com/LogLauncher/loglauncher.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Labyrinth Of Chaos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Rockbasher
 
-### Markdown
+# VR prototype
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Ship IT
 
-```markdown
-Syntax highlighted code block
+# Struan Forsyth
+My name is Struan Forsyth, from Switzerland and am currently in my 3rd year at Digital Arts & Entertainment finishing up my major in Game Development.
 
-# Header 1
-## Header 2
-### Header 3
+When I got my first computer I was fascinated with how it worked. This initial intrigue was what lead me to where I am now. While studying how to make desktop/mobile applications and websites I got the chance to try developing something for VR, as an avid gamer this was a great opportunity to develop for new hardware. This was the final push needed to get me to pursue a game dev related field of study. Over the last 2 years, I've learned a lot about game dev and all tasks that are needed to make a game. 
 
-- Bulleted
-- List
+Hobbies: Mountain biking, Web/Light novel reading, Gaming, VR, Gamedev
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LogLauncher/loglauncher.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact me:
+* [struanforsyth@gmail.com](mailto:struanforsyth@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/struan-forsyth-168a9294)

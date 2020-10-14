@@ -11,13 +11,13 @@ Features I worked on:
   - Outline shader to know which player has selected what
   - Tweaking of gameplay element to make the game feel right
 
+[Open the project on Itch.io for the devlogs & download]([https://link](https://viktor-kerkhof.itch.io/group10disastercrew))
+
 ## Trailer
-<div class="auto-resizable-iframe">
-    <div>
-        <iframe src="https://www.youtube.com/embed/NakeC8UaCZ4" frameborder="0" allowfullscreen></iframe>
-    </div>
-</div>
+<iframe width="350" src="https://www.youtube.com/embed/NakeC8UaCZ4" frameborder="0" allowfullscreen></iframe>
 
 ![Ship IT! - Gameplay image 1](images/ShipIT_Image1.jpg)
 ![Ship IT! - Gameplay image 2](images/ShipIT_Image2.jpg)
 ![Ship IT! - Gameplay image 3](images/ShipIT_Image3.jpg)
+
+[Back](../index.html)

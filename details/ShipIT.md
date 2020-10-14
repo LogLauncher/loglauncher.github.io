@@ -12,7 +12,7 @@ Features I worked on:
   - Tweaking of gameplay element to make the game feel right
 
 ## Trailer
-<div>
+<div class="auto-resizable-iframe">
     <div>
         <iframe src="https://www.youtube.com/embed/NakeC8UaCZ4" frameborder="0" allowfullscreen></iframe>
     </div>

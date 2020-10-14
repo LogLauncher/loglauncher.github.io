@@ -12,7 +12,11 @@ Features I worked on:
   - Tweaking of gameplay element to make the game feel right
 
 ## Trailer
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/NakeC8UaCZ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+    <div>
+        <iframe src="https://www.youtube.com/embed/NakeC8UaCZ4" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
 
 ![Ship IT! - Gameplay image 1](images/ShipIT_Image1.jpg)
 ![Ship IT! - Gameplay image 2](images/ShipIT_Image2.jpg)

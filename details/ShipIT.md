@@ -14,7 +14,7 @@ Features I worked on:
 [Open the project on Itch.io for the devlogs & download](https://viktor-kerkhof.itch.io/group10disastercrew)
 
 ## Trailer
-<iframe width="500" height="281" src="https://www.youtube.com/embed/NakeC8UaCZ4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NakeC8UaCZ4" frameborder="0" allowfullscreen></iframe>
 
 ![Ship IT! - Gameplay image 1](images/ShipIT_Image1.jpg)
 ![Ship IT! - Gameplay image 2](images/ShipIT_Image2.jpg)

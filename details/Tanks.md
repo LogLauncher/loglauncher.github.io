@@ -11,10 +11,10 @@ I implemented the following features:
   - PhysX
 
 ## Trailer
-<iframe width="500" height="281" src="https://www.youtube.com/embed/Sm8wopKgB1g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sm8wopKgB1g" frameborder="0" allowfullscreen></iframe>
 
-![Tanks! - Gameplay image 1](images/Tanks_Image1.png)
-![Tanks! - Gameplay image 2](images/Tanks_Image2.png)
-![Tanks! - Gameplay image 3](images/Tanks_Image3.png)
+![Tanks - Gameplay image 1](images/Tanks_Image1.png)
+![Tanks - Gameplay image 2](images/Tanks_Image2.png)
+![Tanks - Gameplay image 3](images/Tanks_Image3.png)
 
 [Back](../index.html)

@@ -166,6 +166,33 @@ public class BTActionNode : BTNode
 }
 ```
 
+### In use
+Just a little example of how it's used in code.
+```c#
+// Setup all the data needed for the behaviour tree
+_blackboard.AddData("DeltaTime", 0f);
+_agent = GetComponent<NavMeshAgent>();
+_blackboard.AddData("Agent", _agent);
+
+// Behaviour Tree
+_rootBT = new BTSelector(
+    new BTSequence(
+        new BTActionNode(IsInteractable),
+        new AIWander(_wanderSettings)
+    ),
+    new BTSequence(
+        new BTActionNode(IsGrounded),
+        new BTActionNode(EnableAgent)
+    )
+);
+
+// Update the data
+_blackboard.ChangeData("DeltaTime", Time.deltaTime);
+
+// Execute the behaviour tree
+_rootBT.Execute(_blackboard);
+```
+
 ## Gameplay
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x58T9tPcEuY" frameborder="0" allowfullscreen></iframe>
 

@@ -11,16 +11,9 @@ Features I'm currently implementing:
 <br>
 
 <a href="details/Tanks.html">![Tanks](banners/Tanks.png)</a>
-This game was made using the engine created during a course at University. The original version of the engine, Overlord Engine, was very bare-bones and required the implementation of features using DirectX 11, HLSL and other frameworks/tools. I chose to recreate, with a twist, Wii Tanks as it was a challenging game to play and would offer me plenty of possibilities to add features.
+This game was made using the engine created during a course at University. The original version of the engine, Overlord Engine, was very bare-bones. I chose to recreate, with a twist, Wii Tanks as it was a challenging game to play and would offer me plenty of possibilities to add features.
 
 [More details...](details/Tanks.html)
-
-<br>
-
-<a href="details/LabyrinthOfChaos.html">![Labyrinth Of Chaos](banners/LabyrinthOfChaos.png)</a>
-Created during my first year at DAE, Labyrinth Of Chaos was my first game made without an existing engine. The labyrinths are randomly generated using the "Randomized depth-first search" algorithm and then areas/walls removed to make large rooms, loot and enemies randomly distributed through the levels and a highscore system for those that are competitive.
-
-[More details...](details/LabyrinthOfChaos.html)
 
 <br>
 
@@ -42,6 +35,13 @@ Ship IT! is the game that my team and I made during a Project at University. Thi
 For this project, I programmed the enemy robots AI, handled part of the animation implementation, created an object outline shader as well as tweaking gameplay elements and bug fixing.
 
 [More details...](details/ShipIT.html)
+
+<br>
+
+<a href="details/LabyrinthOfChaos.html">![Labyrinth Of Chaos](banners/LabyrinthOfChaos.png)</a>
+Created during my first year at DAE, Labyrinth Of Chaos was my first game made without an existing engine. The labyrinths are randomly generated using the "Randomized depth-first search" algorithm and then areas/walls removed to make large rooms, loot and enemies randomly distributed through the levels and a highscore system for those that are competitive.
+
+[More details...](details/LabyrinthOfChaos.html)
 
 <br>
 

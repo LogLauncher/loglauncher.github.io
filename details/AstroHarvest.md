@@ -1,6 +1,6 @@
 ![Astro Harvest](../banners/AstroHarvest.png)
 # Astro Harvest
-Astro harvest is a project I'm currently working on with a group of 2 artists, 3 game developers and 1 all-rounder. It's a VR game where you farm fruits, place turrets, man them with the fruits and upgrade to defend your base against alien invaders. The game is being developed for the Oculus Quest which comes with its own challenges for development. 
+Astro harvest is a project I'm currently working on, for Mantis Games, with a group of 2 artists, 3 game developers and 1 all-rounder. It's a VR game where you farm fruits, place turrets, man them with the fruits and upgrade to defend your base against alien invaders. The game is being developed for the Oculus Quest which comes with its own challenges for development. 
 A major challenge at the start was not being able to use the Oculus Link to directly test and debug through Unity. Always having to build to the device was losing us a lot of time. Eventually an update came out that fixed the issue which made testing a lot fast/easier.
 
 ## AI - Behaviour Tree

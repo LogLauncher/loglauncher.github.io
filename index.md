@@ -1,12 +1,24 @@
+<a href="details/AstroHarvest.html">![Astro Harvest](banners/AstroHarvest.png)</a>
+Astro harvest is a project I'm currently working on with a group of 2 artists, 3 game developers and 1 all-rounder. It's a VR game where you farm fruits, place turrets, man them with the fruits and upgrade to defend your base against alien invaders. The game is being developed for the Oculus Quest which comes with its own challenges for development. 
+Features I'm currently implementing:
+  - Alien AI
+  - Fruit AI
+  - Behaviour Tree
+  - VR locomotion
+
+[More details...](details/AstroHarvest.html)
+
+<br>
+
 <a href="details/Tanks.html">![Tanks](banners/Tanks.png)</a>
-This game was made using the engine created during the Graphics Programming 2 course. The original version of the engine, Overlord Engine, was very bare-bones and required the implementation of features using DirectX 11, HLSL and other frameworks/tools. I chose to recreate, with a twist, Wii Tanks as it was a challenging game to play and would offer me plenty of possibilities to add features.
+This game was made using the engine created during a course at University. The original version of the engine, Overlord Engine, was very bare-bones and required the implementation of features using DirectX 11, HLSL and other frameworks/tools. I chose to recreate, with a twist, Wii Tanks as it was a challenging game to play and would offer me plenty of possibilities to add features.
 
 [More details...](details/Tanks.html)
 
 <br>
 
 <a href="details/LabyrinthOfChaos.html">![Labyrinth Of Chaos](banners/LabyrinthOfChaos.png)</a>
-Created during my first year at DAE, Labyrinth Of Chaos was my first game made without an existing engine. The labyrinths are randomly generated using the "Randomized depth-first search" algorithm and then areas/walls removed to make large rooms, loot and enemies randomly distributed through the levels and a highscore system for those that are competitive. Whilst made in my first year there are still bits I am proud of and it also shows the progress I've made since then.
+Created during my first year at DAE, Labyrinth Of Chaos was my first game made without an existing engine. The labyrinths are randomly generated using the "Randomized depth-first search" algorithm and then areas/walls removed to make large rooms, loot and enemies randomly distributed through the levels and a highscore system for those that are competitive.
 
 [More details...](details/LabyrinthOfChaos.html)
 
@@ -26,7 +38,7 @@ I was tasked with creating the following:
 <br>
 
 <a href="details/ShipIT.html">![ShipIT!](banners/ShipIT.png)</a>
-Ship IT! is the game that my team and I made during our Game Projects course at DAE. This is couch co-op game where, up to 4, brave delivery robots face hardship and perils to get their cargo to their destination. During their journey, they will be assailed by wandering robots trying to plunder their goods and gusts of winds threatening to throw them, or worse, their goods overboard.
+Ship IT! is the game that my team and I made during a Project at University. This is couch co-op game where, up to 4, brave delivery robots face hardship and perils to get their cargo to their destination. During their journey, they will be assailed by wandering robots trying to plunder their goods and gusts of winds threatening to throw them, or worse, their goods overboard.
 For this project, I programmed the enemy robots AI, handled part of the animation implementation, created an object outline shader as well as tweaking gameplay elements and bug fixing.
 
 [More details...](details/ShipIT.html)

@@ -69,7 +69,7 @@ public class BTBlackboard
 }
 ```
 
-## Composite Nodes
+### Composite Nodes
 Only the basic 2 have been implemented for now as I don't see us needing others for the scale of this project.
 ```c#
 public class BTSelector : BTNode
@@ -135,7 +135,7 @@ public class BTSequence : BTNode
 }
 ```
 
-## Leaf Node
+### Leaf Node
 This is a generic leaf node that can be used for most cases needed for the project.
 ```c#
 public class BTActionNode : BTNode
